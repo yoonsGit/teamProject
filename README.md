@@ -1,4 +1,4 @@
-Preview보다는 Code로 확인 부탁드립니다!
+
 
 <InfoPage.js>변경사항
 import React from 'react';
