@@ -26,7 +26,7 @@ const navigateToDetailPage = () => {
      <h2> AI 기술을 활용하여<br/><br/>
     간편한 정보 입력만으로<br/><br/>
     최적의 영양제를 추천해드립니다!</h2>
-    /*
+    /*추가한 부분입니다.
     <button style={{ color : 'green', width: '100px', height: '100px',float:'right' }}
         onClick={navigateToDetailPage}>영양성분 설명</button>
      */
